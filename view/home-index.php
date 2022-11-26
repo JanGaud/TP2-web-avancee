@@ -11,35 +11,35 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></svg>
+            <img class="bd-placeholder-img" width="100%" height="100%" src="assets\page-2.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></img>
     
             <div class="container">
               <div class="carousel-caption text-start">
                 <h1>La librairies St-James</h1>
-                <p>Notre mission est d'offrir la connaissance gratuitement</p>
+                <p>Notre mission est d'offrir la connaissance gratuitement.</p>
                 <p><a class="btn btn-lg btn-primary" href="#">En savoir plus</a></p>
               </div>
             </div>
           </div>
           <div class="carousel-item">
-            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></svg>
+            <img class="bd-placeholder-img" width="100%" height="100%" src="assets\page-3.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></img>
     
             <div class="container">
               <div class="carousel-caption">
-                <h1>Les jeudis </h1>
-                <p>Some representative placeholder content for the second slide of the carousel.</p>
-                <p><a class="btn btn-lg btn-primary" href="https://getbootstrap.com/docs/5.2/examples/carousel/#">Learn more</a></p>
+                <h1>Les jeudis rencontre</h1>
+                <p>Venez rencontrer des auteurs locaux chaques semaines.</p>
+                <p><a class="btn btn-lg btn-primary" href="https://getbootstrap.com/docs/5.2/examples/carousel/#">En savoir plus</a></p>
               </div>
             </div>
           </div>
           <div class="carousel-item">
-            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="assets\BlogBannerImg1.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></svg>
+            <img class="bd-placeholder-img" width="100%" height="100%" src="assets\page-1.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></img>
     
             <div class="container">
               <div class="carousel-caption text-end">
-                <h1>One more for good measure.</h1>
-                <p>Some representative placeholder content for the third slide of this carousel.</p>
-                <p><a class="btn btn-lg btn-primary" href="#">Browse gallery</a></p>
+                <h1>Dons de livre</h1>
+                <p>Avez-vous des livres à donner? Nous sommes preneurs!</p>
+                <p><a class="btn btn-lg btn-primary" href="#">Faire un don</a></p>
               </div>
             </div>
           </div>
