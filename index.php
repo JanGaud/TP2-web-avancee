@@ -2,7 +2,8 @@
  session_start();
  require_once __DIR__.'/library/RequirePage.php';
  require_once __DIR__.'/vendor/autoload.php';
- require_once __DIR__.'/library/twig.php';
+ require_once __DIR__.'/library/Twig.php';
+ require_once __DIR__.'/library/RenderView.php';
 
 
 $url = isset($_GET["url"]) ? explode('/', ltrim($_GET["url"], '/')) : '/';
