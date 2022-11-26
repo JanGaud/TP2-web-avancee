@@ -11,7 +11,7 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="bd-placeholder-img" width="100%" height="100%" src="assets\page-2.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></img>
+            <img class="bd-placeholder-img" width="100%" height="100%" src="assets/page-2.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></img>
     
             <div class="container">
               <div class="carousel-caption text-start">
@@ -22,7 +22,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img class="bd-placeholder-img" width="100%" height="100%" src="assets\page-3.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></img>
+            <img class="bd-placeholder-img" width="100%" height="100%" src="assets/page-3.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></img>
     
             <div class="container">
               <div class="carousel-caption">
@@ -33,7 +33,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img class="bd-placeholder-img" width="100%" height="100%" src="assets\page-1.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></img>
+            <img class="bd-placeholder-img" width="100%" height="100%" src="assets/page-1.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></img>
     
             <div class="container">
               <div class="carousel-caption text-end">

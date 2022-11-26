@@ -16,10 +16,10 @@ class Controllerlivre{
     }
 
     public function store(){
-     // print_r($_POST);
-     $livre = new ModelLivre;
-     $insert = $livre->insert($_POST);
-    requirePage::redirectPage('{{ path }}livre');
+        // print_r($_POST);
+        $livre = new ModelLivre;
+        $insert = $livre->insert($_POST);
+        requirePage::redirectPage('{{ path }}livre');
     }
 
     public function show($id){
