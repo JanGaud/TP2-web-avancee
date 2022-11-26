@@ -8,7 +8,7 @@ class Controllerlivre{
         $livre = new ModelLivre;
         $select = $livre->select("idLivre");
         twig::render("livre-index.php", ['livres' => $select, 
-                                        'livre_list' => "Liste de livre"]);
+                                        'livre_list' => "Liste de livre", 'page' => ["Livres"]]);
     }
 
     public function create(){

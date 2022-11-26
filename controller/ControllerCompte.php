@@ -5,6 +5,6 @@ RequirePage::requireModel('ModelClient');
 class ControllerCompte{
 
     public function index(){
-        twig::render("connexion.php");
+        twig::render("connexion.php", ['page' => ["compte", "connexion"]]);
     }
 }

@@ -8,7 +8,7 @@ class ControllerAuteur{
         $auteur = new ModelAuteur;
         $select = $auteur->select("idAuteur");
         twig::render("auteur-index.php", ['auteurs' => $select, 
-                                        'auteur_list' => "Liste de auteur"]);
+                                        'auteur_list' => "Liste de auteur", 'page' => ["Auteurs"]]);
     }
 
     public function create(){

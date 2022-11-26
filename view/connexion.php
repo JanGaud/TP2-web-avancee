@@ -2,15 +2,9 @@
 
 
 {% block page %}
-<nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="{{ path }}">Acceuil</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Connexion</li>
-  </ol>
-</nav>
     <h2 class="text-center p-2">Mon compte</h2>
 <div class="d-flex justify-content-center">
-<div class="card" style="width: 25rem;">
+<div class="card" style="width: 30rem;">
 <div class="card-header text-center bg-primary text-white">
     Connexion
 </div>
@@ -62,13 +56,9 @@
             <button type="button" class="btn btn-link btn-floating mx-1">
             <i class="fab fa-twitter"></i>
             </button>
-
-            <button type="button" class="btn btn-link btn-floating mx-1">
-            <i class="fab fa-github"></i>
-            </button>
         </div>
         </form>
         </div>
-        </div>
+    </div>
 </div>
 {% endblock %}

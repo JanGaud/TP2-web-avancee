@@ -6,8 +6,8 @@ class ControllerClient{
 
     public function index(){
         $client = new ModelClient;
-        $select = $client->select();
-        twig::render("client-index.php", ['clients' => $select, 
+        // $select = $client->select();
+        twig::render("client-index.php", ['clients' =>"", 
                                         'client_list' => "Liste de Client"]);
     }
 
