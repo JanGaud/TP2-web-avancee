@@ -5,7 +5,10 @@
 <div class="container">
 <h2 class="text-center p-2">Repertoire de livres</h2>
 <table class="table table-striped">
-  <thead>
+<thead>
+
+  {{ serveur }}
+
     <tr>
       <th scope="col">Titre</th>
       <th scope="col">Edition</th>

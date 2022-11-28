@@ -27,7 +27,7 @@
         </div>
 
         <div class="form-outline mb-4">
-            <input type="txt" id="adresse" class="form-control" name="client_courriel"/>
+            <input type="txt" id="adresse" class="form-control" name="adresse"/>
             <label class="form-label" for="adresse">Adresse</label>
         </div>
 
@@ -37,10 +37,10 @@
         </div>
 
         <!-- Password input -->
-        <!-- <div class="form-outline mb-4">
+        <div class="form-outline mb-4">
             <input type="password" id="mdp" class="form-control" name="mdp" />
             <label class="form-label" for="mdp">Mot de passe</label>
-        </div> -->
+        </div>
 
         <!-- Submit button -->
         <div class="mt-4 pt-2">

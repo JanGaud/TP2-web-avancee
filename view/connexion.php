@@ -8,17 +8,17 @@
 <div class="card-header text-center bg-primary text-white">
     Connexion
 </div>
-  <div class="card-body">
-    <form>
+    <div class="card-body">
+    <form method="POST" action="{{ path }}compte/connexion">
         <!-- Email input -->
         <div class="form-outline mb-4">
-            <input type="email" id="form2Example1" class="form-control" />
+            <input type="email" id="form2Example1" class="form-control" name="client_courriel"/>
             <label class="form-label" for="form2Example1">Courriel</label>
         </div>
 
         <!-- Password input -->
         <div class="form-outline mb-4">
-            <input type="password" id="form2Example2" class="form-control" />
+            <input type="password" id="form2Example2" class="form-control" name="mdp"/>
             <label class="form-label" for="form2Example2">Mot de passe</label>
         </div>
 
@@ -39,7 +39,7 @@
         </div>
 
         <!-- Submit button -->
-        <button type="button" class="btn btn-primary btn-block mb-4">Connexion</button>
+        <input type="submit" class="btn btn-primary btn-block mb-4" value="Connexion"/>
 
         <!-- Register buttons -->
         <div class="text-center">
